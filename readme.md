@@ -8,3 +8,4 @@
 [![Recetario](assets/images/cookies.jpeg)](https://en.wikipedia.org/wiki/Cookie)
 
 ## PRACTICA 2 APRENDIENDO A TRABAJAR CON RAMAS EN GIT
+Para mi practica cree una rama nueva llamada recetarios.
