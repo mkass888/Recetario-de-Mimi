@@ -4,3 +4,4 @@
 1. Clase 1 - INTRODUCCION A HTML, SINTAXIS BASICA
 2. Clase 2 - REPASO INTRODUCCION A CSS
 3. Clase 3 - INTRODUCCION A GIT - MARKDOWN
+![Recetario](assets/images/cookies.jpeg)
