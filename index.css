@@ -1,0 +1,21 @@
+:root {
+    --color-primario: #D8A2A2;
+    --color-texto: #8EA66B;
+    --color-secundario: #FFDCDC;
+    --color-de-fondo: #FFF9D6;
+}
+body {
+    font-family: 'DM Sans';
+    background-color: var(--color-de-fondo);
+    color: var(--color-texto)
+}
+h1 {
+    color: var(--color-primario)
+}
+ul, ol {
+    font-family: 'DM Sans';
+}
+img {
+    width: 300px;
+    height: 400px;
+}
