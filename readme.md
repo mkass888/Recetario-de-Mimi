@@ -6,3 +6,5 @@
 3. Clase 3 - INTRODUCCION A GIT - MARKDOWN
 [IMAGEN](https://en.wikipedia.org/wiki/Cookie)
 [![Recetario](assets/images/cookies.jpeg)](https://en.wikipedia.org/wiki/Cookie)
+
+## PRACTICA 2 APRENDIENDO A TRABAJAR CON RAMAS EN GIT
