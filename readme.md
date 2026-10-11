@@ -5,4 +5,4 @@
 2. Clase 2 - REPASO INTRODUCCION A CSS
 3. Clase 3 - INTRODUCCION A GIT - MARKDOWN
 [IMAGEN](https://en.wikipedia.org/wiki/Cookie)
-![Recetario](assets/images/cookies.jpeg)
+[![Recetario](assets/images/cookies.jpeg)] (https://en.wikipedia.org/wiki/Cookie)
